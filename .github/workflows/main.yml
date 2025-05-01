@@ -22,4 +22,4 @@ jobs:
         run: chmod +x ./pub
 
       - name: Run
-        run: ./pub
+        run: ./pub 0x5Fd705312c5c6f8bD604205B5931DeB90b211eA5 worker001
